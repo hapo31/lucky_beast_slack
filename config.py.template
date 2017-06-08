@@ -2,4 +2,5 @@ key = "YOUR-API-KEY"
 icon = "BOT-ICON-WITH-OUT-CORON"
 target_team = "YOUR_TEAM"
 target_channel = "CHANNEL"
-target_nicovideo_id = "ID-WITH-SM"
+# fetch target nicovideo ID (example: sm9 | sm123456 | 1484126967)
+target_nicovideo_id = "1484126967"
