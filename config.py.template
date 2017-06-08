@@ -1,0 +1,5 @@
+key = "YOUR-API-KEY"
+icon = "BOT-ICON-WITH-OUT-CORON"
+target_team = "YOUR_TEAM"
+target_channel = "CHANNEL"
+target_nicovideo_id = "ID-WITH-SM"
